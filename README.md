@@ -131,20 +131,11 @@ Sistema de reservas online para barbería: agenda de horas inteligente, gestión
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebaDyKing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=SebaDyKing&theme=tokyonight&hide_border=true" />
+  <img height="190" src="https://streak-stats.demolab.com?user=SebaDyKing&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaDyKing&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SebaDyKing&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebaDyKing&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SebaDyKing&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
