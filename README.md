@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SebaDyKing&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="profile views" />
-</p>
-
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="32"></picture> About me
@@ -136,10 +132,4 @@ Sistema de reservas online para barbería: agenda de horas inteligente, gestión
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SebaDyKing&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/SebaDyKing">Sebas</a></i>
 </p>
